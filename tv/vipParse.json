@@ -1,52 +1,112 @@
 {
   "data": [
     {
+      "id": 0,
+      "name": "cuan",
+      "ad": "no",
+      "url": "https://www.cuan.la/m3u8.php?url="
+    }, 
+{
       "id": 1,
+      "name": "smys8",
+      "ad": "no",
+      "url": "https://jxx.smys8.cn/index.php?url="
+    },
+    {
+      "id": 2,
+      "name": "8090",
+      "ad": "no",
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "id": 3,
+      "name": "ok",
+      "ad": "no",
+      "url": "https://okjx.cc?url="
+    },
+    {
+      "id": 4,
+      "name": "baiyug",
+      "ad": "no",
+      "url": "http://api.baiyug.vip/index.php?url="
+    },
+    {
+      "id": 5,
+      "name": "playx",
+      "ad": "no",
+      "url": "http://playx.top/?url="
+    },
+    {
+      "id": 6,
+      "name": "play1",
+      "ad": "no",
+      "url": "http://play1.online/?url="
+    },
+    {
+      "id": 7,
+      "name": "baiyug2",
+      "ad": "no",
+      "url": "http://api.baiyug.vip/?url="
+    },
+    {
+      "id": 8,
+      "name": "bofang",
+      "ad": "no",
+      "url": "http://bofang.online/?url="
+    }
+{
+      "id": 9,
+      "name": "线路9",
+      "ad": "no",
+      "url": "http://607p.com/?url="
+    }, 
+{
+      "id": 10,
       "name": "线路1",
       "ad": "no",
-      "url": "https://okjx.cc/?url="
+      "url": "http://pangujx.cc/?url="
     },
     {
-      "id": 1,
+      "id": 11,
       "name": "线路2",
       "ad": "no",
-      "url": "http://jx.618ge.com/?url="
+      "url": "http://jx.quanmingjiexi.com/?url="
     },
     {
-      "id": 1,
+      "id": 12,
       "name": "线路3",
+      "ad": "no",
+      "url": "http://jqaaa.com/jx.php?url="
+    },
+    {
+      "id": 13,
+      "name": "线路4",
+      "ad": "no",
+      "url": "https://www.qianyicp.com/jiexi/index.php?url="
+    },
+    {
+      "id": 14,
+      "name": "线路5",
+      "ad": "no",
+      "url": "https://www.xymav.com/?url="
+    },
+    {
+      "id": 15,
+      "name": "线路6",
+      "ad": "no",
+      "url": "https://jx.mw0.cc/?url="
+    },
+    {
+      "id": 16,
+      "name": "线路7",
       "ad": "no",
       "url": "https://jx.618g.com/?url="
     },
     {
-      "id": 1,
-      "name": "线路4",
-      "ad": "no",
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路5",
-      "ad": "no",
-      "url": "https://api.10dy.net/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路6",
-      "ad": "no",
-      "url": "https://jx.elwtc.com/vip/?url="
-    },
-    {
-      "id": 1,
-      "name": "线路7",
-      "ad": "no",
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "id": 1,
+      "id": 17,
       "name": "线路8",
       "ad": "no",
-      "url": "https://jx.000180.top/jx/?url="
+      "url": "https://plamgtvcache.ccyjjd.com/play.php?url="
     }
   ]
 }
