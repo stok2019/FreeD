@@ -1,15 +1,5 @@
-谍影重重4HD,https://v5.szjal.cn/20200828/YHwFQqg7/index.m3u8
-谍影重重4HD,https://v5.szjal.cn/20200828/eTOaZpGV/index.m3u8
-谍影重重4HD,https://v5.szjal.cn/20200906/NTxJQ4yJ/index.m3u8
 谍影重重4HD,https://v5.szjal.cn/20200828/2zD18dWT/index.m3u8
 谍影重重1HD,https://v5.szjal.cn/20200828/eTOaZpGV/index.m3u8
-谍影重重1HD,https://v5.szjal.cn/20200828/YHwFQqg7/index.m3u8
-谍影重重1HD,https://v5.szjal.cn/20200906/NTxJQ4yJ/index.m3u8
-谍影重重1HD,https://v5.szjal.cn/20200828/mHh0fr6p/index.m3u8
-谍影重重1HD,https://v5.szjal.cn/20200828/2zD18dWT/index.m3u8
 谍影重重2HD,https://v5.szjal.cn/20200828/2zD18dWT/index.m3u8
 谍影重重3HD,https://v5.szjal.cn/20200828/mHh0fr6p/index.m3u8
-谍影重重3HD,https://v5.szjal.cn/20200828/eTOaZpGV/index.m3u8
-谍影重重3HD,https://v5.szjal.cn/20200906/NTxJQ4yJ/index.m3u8
-谍影重重3HD,https://v5.szjal.cn/20200828/2zD18dWT/index.m3u8
 谍影重重5HD,https://v5.szjal.cn/20200906/NTxJQ4yJ/index.m3u8
